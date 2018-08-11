@@ -44,8 +44,7 @@ module.exports = {
                         '/SeafoodProcessing/2TempuraShrimp',
                         '/SeafoodProcessing/3CodFilletSeries',
                         '/SeafoodProcessing/4SquidSeries',
-                        '/SeafoodProcessing/5SushiSeries',
-                        '/SeafoodProcessing/6SmokedSalmonFillet'
+                        '/SeafoodProcessing/5SushiSeries'
                     ]
                 },
                 {
