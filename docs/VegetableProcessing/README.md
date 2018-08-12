@@ -74,7 +74,7 @@ pageClass: custom-page-class
 <p><strong>主要采购国家：</strong>进口种子指定品种</p>
 <p><strong>规格：</strong>500克/包</p>
 <div class="imgb" >
- <img  src="http://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/V-V-6.%E5%86%B7%E5%86%BB%E5%8D%97%E7%93%9C%E5%9D%97--Frozen%20pumpkin%20cube.jpg">
+ <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/V-V-6.%E5%86%B7%E5%86%BB%E5%8D%97%E7%93%9C%E5%9D%97--Frozen%20pumpkin%20cube.jpg">
 </div>
 <hr>
 <br>
@@ -100,7 +100,7 @@ pageClass: custom-page-class
 <p><strong>主要采购国家：</strong>进口种子指定品种</p>
 <p><strong>规格：</strong>30克/个</p>
 <div class="imgb" >
- <img  src="http://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/V-V-8.%E5%A4%A7%E5%A4%B4%E8%8F%9C%E5%8D%B7--Cabbage%20roll.jpg">
+ <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/V-V-8.%E5%A4%A7%E5%A4%B4%E8%8F%9C%E5%8D%B7--Cabbage%20roll.jpg">
 </div>
 <hr>
 <br>
@@ -126,7 +126,7 @@ pageClass: custom-page-class
 <p><strong>主要采购国家：</strong>原料进口，成品直接出口</p>
 <p><strong>规格：</strong>25克/个</p>
 <div class="imgb" >
- <img  src="">
+
 </div>
 <hr>
 <br>
