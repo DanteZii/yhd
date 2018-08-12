@@ -126,11 +126,5 @@ pageClass: custom-page-class
 <p><strong>主要采购国家：</strong>原料进口，成品直接出口</p>
 <p><strong>规格：</strong>25克/个</p>
 <div class="imgb" >
-
 </div>
-<hr>
-<br>
-<br>
-<br>
-<br>
-<br>
+<div class="interval"></div>

@@ -14,34 +14,16 @@ pageClass: custom-page-class
  <br>
  <img src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/demoFish.jpg">
 </div>
-<hr>
-<br>  
-<br>                                    
-<br>                                    
-<br>                                    
-<br>                                                                               
 
 ## 2. Yellow tail  
 <div class="imgb">
  <img src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-4.%E9%BB%84%E9%B0%A4%E9%B1%BC--Yellowtail.jpg">
 </div>
-<hr>
-<br>  
-<br>                                    
-<br>                                    
-<br>                                    
-<br>                                    
 
 ## 3. Tempura shrimp  
 <div class="imgb">
  <img src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/A-2.%E5%A4%A9%E5%A6%87%E7%BD%97%E8%99%BE--Tempura%20shrimp.jpg">
 </div>
-<hr>
-<br>  
-<br>                                    
-<br>                                    
-<br>                                    
-<br>                                       
 
 ## 4. Sushi fish fillet  
 <hr>
@@ -72,9 +54,3 @@ pageClass: custom-page-class
 <div class="imgb" >
  <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/V-Fr-1.%E6%96%B0%E9%B2%9C%E8%8D%89%E8%8E%93--Fresh%20strawberry.jpg">
 </div>
-<hr>
-<br>
-<br>
-<br>
-<br>
-<br>
