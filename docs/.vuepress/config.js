@@ -21,23 +21,23 @@ module.exports = {
     themeConfig: {
         sidebar: [
             {
-                title: 'recommend',
+                title: 'Recommend',
                 collapsable: true,
                 children: [
-                    '/recommend/'
+                    '/Recommend/'
                 ]
             },
                 {
-                    title: 'Procurement products',
+                    title: 'ProcurementProducts',
                     collapsable: false,
                     children: [
-                        '/purchase/',
-                        '/purchase/shell',
-                        '/purchase/shrimp'
+                        '/Purchase/',
+                        '/Purchase/Shell',
+                        '/Purchase/Shrimp'
                     ]
             },
                 {
-                    title: 'Aquatic processing series',
+                    title: 'AquaticProcessingSeries',
                     collapsable: false,
                     children: [
                         '/SeafoodProcessing/',
@@ -48,12 +48,12 @@ module.exports = {
                     ]
                 },
                 {
-                    title: 'Vegetable processing series',
+                    title: 'VegetableProcessingSeries',
                     collapsable: false,
                     children: [
                         '/VegetableProcessing/',
-                        '/VegetableProcessing/2fungus',
-                        '/VegetableProcessing/3fruit'
+                        '/VegetableProcessing/2Fungus',
+                        '/VegetableProcessing/3Fruit'
                     ]
                 }
             ],
@@ -77,7 +77,7 @@ module.exports = {
                         
                     nav: [
                         { text: 'Home', link: '/' },
-                        { text: 'Product', link: '/recommend/' },
+                        { text: 'Product', link: '/Recommend/' },
                         { text: 'About', link: '/About/' }
                     ],
                 },
@@ -99,7 +99,7 @@ module.exports = {
                     algolia: {},
                     nav: [
                         { text: '主页', link: '/zh/' },
-                        { text: '产品', link: '/zh/recommend/' },
+                        { text: '产品', link: '/zh/Recommend/' },
                         { text: '关于', link: '/zh/About/' }
                     ],
                     sidebar: [
@@ -107,16 +107,16 @@ module.exports = {
                             title: '推荐产品',
                             collapsable: true,
                             children: [
-                                '/zh/recommend/'
+                                '/zh/Recommend/'
                             ]
                         },
                         {
                             title: '采购类产品',
                             collapsable: false,
                             children: [
-                                '/zh/purchase/',
-                                '/zh/purchase/shell',
-                                '/zh/purchase/shrimp'
+                                '/zh/Purchase/',
+                                '/zh/Purchase/Shell',
+                                '/zh/Purchase/Shrimp'
                             ]
                         },
                         {
@@ -136,8 +136,8 @@ module.exports = {
                             collapsable: false,
                             children: [
                                 '/zh/VegetableProcessing/',
-                                '/zh/VegetableProcessing/2fungus',
-                                '/zh/VegetableProcessing/3fruit'
+                                '/zh/VegetableProcessing/2Fungus',
+                                '/zh/VegetableProcessing/3Fruit'
                             ]
                         }
                     ],
