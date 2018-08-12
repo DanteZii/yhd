@@ -22,7 +22,7 @@ pageClass: custom-page-class
 <p><strong>主要采购国家：</strong>进口种子指定品种</p>
 <p><strong>规格：</strong>500克/包</p>
 <div class="imgb" >
- <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/V-V-1.%E5%9C%B0%E7%93%9C%E4%B8%81--Sweet%20potato%20cubes.jpg">
+ <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/V-V-2%E5%9C%9F%E8%B1%86%E5%9D%97--Potato%20cubes.jpg">
 </div>
 <hr>
 <br>
